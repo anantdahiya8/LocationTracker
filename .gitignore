@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+*.tmp
+
+# User-specific files
+.vs/
+*.user
+*.suo
+
+# Local location history
+Resources/Raw/LocationDB.db
+
+# OS-generated files
+.DS_Store
